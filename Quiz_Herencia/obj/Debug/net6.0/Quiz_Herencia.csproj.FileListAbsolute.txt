@@ -1,0 +1,15 @@
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.csproj.AssemblyReference.cache
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.AssemblyInfoInputs.cache
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.AssemblyInfo.cs
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.csproj.CoreCompileInputs.cache
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\bin\Debug\net6.0\Quiz_Herencia.exe
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\bin\Debug\net6.0\Quiz_Herencia.deps.json
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\bin\Debug\net6.0\Quiz_Herencia.runtimeconfig.json
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\bin\Debug\net6.0\Quiz_Herencia.dll
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\bin\Debug\net6.0\Quiz_Herencia.pdb
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.dll
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\refint\Quiz_Herencia.dll
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.pdb
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\Quiz_Herencia.genruntimeconfig.cache
+C:\JMMM\Quiz_Herencia\Quiz_Herencia\obj\Debug\net6.0\ref\Quiz_Herencia.dll
